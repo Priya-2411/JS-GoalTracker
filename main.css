@@ -1,0 +1,33 @@
+html, 
+body {
+  height: 100%; 
+  font-size: 1em; 
+}
+
+body {
+  display:flex; 
+  align-items: center; 
+  justify-content: center;
+  background-color: #0ae0e7; 
+}
+
+.container {
+  background-color: #fff; 
+  border-radius:5px; 
+  color: #333; 
+}
+
+h1 {
+  font-family: 'Sriracha', cursive;
+  font-size:4em;
+  padding-bottom: 30px;
+  text-align:center; 
+}
+
+h2 {
+    text-align: center;
+}
+
+ul{
+  list-style-type: square;
+}
